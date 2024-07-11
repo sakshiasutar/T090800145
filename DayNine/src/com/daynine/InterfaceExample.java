@@ -8,7 +8,7 @@ package com.daynine;
 // Loose coupling : all the methods and classes are entirely independent and archives Loose Coupling.
 
 
-// interface face is IS-A relation
+// interface is IS-A relation
 // it cannot have constructor
 
 //Types of Interface
